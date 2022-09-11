@@ -2,7 +2,8 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-XButton2::
+
+XButton2:: ;Edit this line to change the hotkey
     SetTimer, KokomiA, 0
     Sleep 900  
     SetTimer, KokomiA, Off
