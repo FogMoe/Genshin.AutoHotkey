@@ -3,14 +3,22 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-XButton2:: ; Edit this line to change the hotkey.
+ActiveStatus:=false
+~XButton2:: ; Switch.
+    if (ActiveStatus=true){
+        ActiveStatus:=false
+    }
+    else {
+        ActiveStatus:=true
+    }
+Return
+#If ActiveStatus=true  
+RButton:: ; Edit this line to change the hotkey.
     SetTimer, KokomiA, 0
     Sleep 900  
     SetTimer, KokomiA, Off
 Return
-~RButton::
-    SetTimer, KokomiA, Off
-Return
+#If
 ~LShift::
     SetTimer, KokomiA, Off
 Return
