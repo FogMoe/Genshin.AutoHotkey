@@ -1,6 +1,7 @@
 # Genshin.AutoHotkey
  [AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe)
-
+ 
+心海普通攻击
 
 ## Examples
 <img src="./Assets/Kokomi_Attack.gif" width=640 high=360>
