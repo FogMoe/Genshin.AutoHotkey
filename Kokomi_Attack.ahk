@@ -3,7 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-XButton2:: ;Edit this line to change the hotkey
+XButton2:: ; Edit this line to change the hotkey.
     SetTimer, KokomiA, 0
     Sleep 900  
     SetTimer, KokomiA, Off
@@ -22,3 +22,7 @@ KokomiA:
     Send W
     Sleep 100
 Return
+
+/*
+    https://github.com/scarletkc/Genshin.AutoHotkey
+*/
