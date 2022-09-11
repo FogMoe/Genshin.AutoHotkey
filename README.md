@@ -6,4 +6,5 @@ Some AHK scripts for Genshin Impact.
 
 ## Instructions
 Run with administrator privileges.
+
 Press the side button of the mouse to use.
