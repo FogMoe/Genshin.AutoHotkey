@@ -13,7 +13,7 @@ ActiveStatus:=false
     }
 Return
 #If ActiveStatus=true  
-RButton:: ; Edit this line to change the hotkey.
+LButton:: ; Edit this line to change the hotkey.
     SetTimer, KokomiA, 0
     Sleep 900  
     SetTimer, KokomiA, Off
