@@ -1,7 +1,7 @@
 # Genshin.AutoHotkey
  [AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe)
  
-零命心海取消最后一段普通攻击
+零命心海自动取消最后一段普通攻击
 
 ## Examples
 <img src="./Assets/Kokomi_Attack.gif" width=640 high=360>
