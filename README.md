@@ -1,5 +1,5 @@
 # Genshin.AutoHotkey
-* 
+ [Download AHK](https://www.autohotkey.com/download/ahk-install.exe)
 
 
 ## Examples
