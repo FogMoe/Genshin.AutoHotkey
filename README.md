@@ -7,4 +7,4 @@ Some AHK scripts for Genshin Impact.
 ## Instructions
 Please **run ahk with administrator privileges**.
 
-The default setting is to **press the side button of the mouse** to use.
+The default setting is that **press the side button of the mouse** to use.
