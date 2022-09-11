@@ -8,7 +8,7 @@
 
 
 ## Instructions
-Please **run (this .ahk) with administrator privileges**.
+Please **run (this .ahk) as administrator**.
 *[ Translation: 请以管理员身份权限运行当前AHK脚本。 ]*
 
 The default setting is that **first press the side button of the mouse (Mouse5/XButton2)** to activate, and **then press the left mouse button** to attack (Don't hold down the W key to walk while attacking) by using Kokomi in game, certainly pressing Shift key can dodge, also **press the side button of the mouse (Mouse5/XButton2)** again to inactivate.
