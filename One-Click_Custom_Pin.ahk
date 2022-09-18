@@ -7,7 +7,7 @@ DesktopGui:
 Gui, Add, CheckBox,checked1 vActiveStatus -Wrap, Press the key "P" to use.
 Gui, Show, Center, One-Click Custom Pin
 Return
-p::
+~p::
     Gui, Submit, NoHide
     if (ActiveStatus=1){
         Send M
