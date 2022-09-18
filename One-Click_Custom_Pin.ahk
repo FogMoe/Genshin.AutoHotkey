@@ -11,15 +11,15 @@ Return
     Gui, Submit, NoHide
     if (ActiveStatus=1){
         Send M
-        Sleep 500
+        Sleep 600
         Loop 80 {
             Click WheelUp
         }
-        Sleep 500
+        Sleep 450
         SendEvent {Click Left}   
-        Sleep 500     
+        Sleep 400     
         ImageSearch, OutputVarX, OutputVarY, X1, Y1, A_ScreenWidth, A_ScreenHeight, *10 Resources\Button_Confirm.bmp
-        Sleep 500
+        Sleep 300
         SendEvent {Click, %OutputVarX% %OutputVarY%}
         Sleep 500
         Send {Escape}     
