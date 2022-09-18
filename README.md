@@ -5,7 +5,7 @@
 
 零命心海自动取消最后一段普通攻击
 
-在角色当前位置（按P）一键创建标记
+在角色当前位置（按P键）一键创建标记
 
 ## Examples
 <img src="./Assets/Kokomi_Attack.gif" width=640 high=360>
