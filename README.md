@@ -3,6 +3,8 @@
  
 功能：
 
+Accelerated_Archery=滑步弓
+
 Kokomi_Attack=零命心海自动取消最后一段普通攻击.
 
 One-Click_Custom_Pin=（按P键）在角色当前位置一键创建地图标记.
