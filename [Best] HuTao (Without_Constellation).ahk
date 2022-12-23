@@ -5,6 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #IfWinActive
 ~RButton::Suspend
+~MButton::Suspend
 
 #IfWinActive
 LButton::
