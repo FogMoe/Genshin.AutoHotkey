@@ -4,8 +4,13 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #IfWinActive
-~RButton::Suspend
-~MButton::Suspend
+~1::Suspend, Off
+~MButton::Suspend, Off
+~2::Suspend, On
+~3::Suspend, On
+~4::Suspend, On
+~Esc::Suspend, On
+~RButton::Suspend, On
 
 #IfWinActive
 LButton::
