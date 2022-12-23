@@ -3,6 +3,8 @@
  
 功能：
 
+[Best] HuTao (Without_Constellation)=零命胡桃自动A重跳（按鼠标右键开启或关闭 按鼠标左键攻击）[Press the right mouse button to turn on or off, press the left mouse button to attack].
+
 Accelerated_Archery=滑步弓
 
 Kokomi_Attack=零命心海自动取消最后一段普通攻击.
