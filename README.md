@@ -3,7 +3,7 @@
  
 功能：
 
-[Best] HuTao (Without_Constellation)=零命胡桃自动A重跳（按‘数字键1’可以开启,按‘数字键2/3/4或Esc键或鼠标右键’可以关闭 点击鼠标左键以攻击）[Press 'Num 1' to turn on, press 'Num 2/3/4 or Esc key or right mouse button' to turn off, and click the left mouse button to attack] *[Video](https://github.com/scarletkc/Genshin.AutoHotkey/raw/main/Assets/HuTao.flv)*.
+[Best] HuTao (Without_Constellation)=零命胡桃自动A重跳（按‘数字键1或鼠标中键’可以开启,按‘数字键2/3/4或Esc键或鼠标右键’可以关闭 点击鼠标左键以攻击）[Press 'Num 1 or middle mouse button' to turn on, press 'Num 2/3/4 or Esc key or right mouse button' to turn off, and click the left mouse button to attack] *[Video](https://github.com/scarletkc/Genshin.AutoHotkey/raw/main/Assets/HuTao.flv)*.
 
 Accelerated_Archery=滑步弓
 
